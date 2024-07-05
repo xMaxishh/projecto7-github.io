@@ -203,6 +203,15 @@ body {
         position: relative;
     }
 
+        .message-error {
+        position: absolute;
+        left: 200px;
+        bottom: 154px;
+        font-weight: 700;
+        color: var(--tomato);
+        display: none;
+    }
+    
     .cont-img-mobile {
         position: absolute;
         background-image: url("assets/images/illustration-sign-up-mobile.svg");
@@ -289,14 +298,7 @@ body {
             padding: 0;
         }
 
-        .message-error{
-                position: absolute;
-                left: 200px;
-                bottom: 154px;
-                font-weight: 700;
-                color: var(--tomato);
-                display: none;
-        }
+
         
         img {
 
