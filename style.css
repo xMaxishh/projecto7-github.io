@@ -289,13 +289,13 @@ body {
             padding: 0;
         }
 
-        ..message-error{
+        .message-error{
                 position: absolute;
-    left: 200px;
-    bottom: 154px;
-    font-weight: 700;
-    color: var(--tomato);
-    display: none;
+                left: 200px;
+                bottom: 154px;
+                font-weight: 700;
+                color: var(--tomato);
+                display: none;
         }
         
         img {
