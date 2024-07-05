@@ -20,6 +20,8 @@ body {
     font-style: normal;
     font-size: 16px;
     background: var(--charcoal-grey);
+    align-content: center;
+    height: 100dvh;
 }
 
 
