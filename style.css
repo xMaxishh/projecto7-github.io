@@ -289,6 +289,15 @@ body {
             padding: 0;
         }
 
+        ..message-error{
+                position: absolute;
+    left: 200px;
+    bottom: 154px;
+    font-weight: 700;
+    color: var(--tomato);
+    display: none;
+        }
+        
         img {
 
             width: 3rem;
